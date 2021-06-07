@@ -1,0 +1,47 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F1936 ]
+[d frameptr 6 ]
+"10 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"32 C:\Users\harut\MPLABXProjects\pic16f1936 test\Ltika.X\newmain.c
+[v _PICinit PICinit `(v  1 e 1 0 ]
+"44
+[v _main main `(i  1 e 2 0 ]
+"429 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/PIC12-16F1xxx_DFP/1.2.63/xc8\pic\include\proc\pic16f1936.h
+[v _PORTA PORTA `VEuc  1 e 1 @12 ]
+"491
+[v _PORTB PORTB `VEuc  1 e 1 @13 ]
+"553
+[v _PORTC PORTC `VEuc  1 e 1 @14 ]
+"1222
+[v _TRISA TRISA `VEuc  1 e 1 @140 ]
+"1284
+[v _TRISB TRISB `VEuc  1 e 1 @141 ]
+"1346
+[v _TRISC TRISC `VEuc  1 e 1 @142 ]
+"1845
+[v _OSCCON OSCCON `VEuc  1 e 1 @153 ]
+"3071
+[v _ANSELA ANSELA `VEuc  1 e 1 @396 ]
+"3129
+[v _ANSELB ANSELB `VEuc  1 e 1 @397 ]
+"8128
+[v _RA1 RA1 `VEb  1 e 0 @97 ]
+"44 C:\Users\harut\MPLABXProjects\pic16f1936 test\Ltika.X\newmain.c
+[v _main main `(i  1 e 2 0 ]
+{
+"55
+} 0
+"32
+[v _PICinit PICinit `(v  1 e 1 0 ]
+{
+"42
+} 0
